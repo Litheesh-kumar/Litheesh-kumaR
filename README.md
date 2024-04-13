@@ -67,3 +67,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
+- QR code Design: https://litheesh-kumar.github.io/css-practice/qr-code-component-main/ 
+- Recipe card Design: https://litheesh-kumar.github.io/css-practice/recipe-page-main
